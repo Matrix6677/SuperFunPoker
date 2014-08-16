@@ -1,10 +1,10 @@
 <?php
-include_once '../../Common/Common/function.php';
-setLang('cn');
+    include_once '../../Common/Common/function.php';
+    setLang('de');
 ?>
 <!DOCTYPE html>
 <html>
-<head lang="en">
+<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <link rel="stylesheet" href="../../../Public/Css/bootstrap.min.css">
@@ -18,7 +18,7 @@ setLang('cn');
 <?php
 include '../../../Public/Tpl/header.html';
 include '../../../Public/Tpl/menu.html';
-get_content('http://192.168.1.139:8000/content/cn/zjh/jieshao');
+get_content('http://115.28.244.81/content/en/bj/test');
 include '../../../Public/Tpl/footer.html';
 ?>
 <!--script start-->

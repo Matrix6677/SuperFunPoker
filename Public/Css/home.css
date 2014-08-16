@@ -282,7 +282,7 @@ body {
 #menu {
     margin-top: 41px;
     background-color: #F0EFF0;
-    padding: 25px 27px;
+    padding: 25px 0 25px 27px;
     border-bottom: 2px solid #777777;
 }
 

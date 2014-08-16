@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: abc\n"
-"POT-Creation-Date: 2014-08-16 16:30+0800\n"
-"PO-Revision-Date: 2014-08-16 16:32+0800\n"
+"POT-Creation-Date: 2014-08-16 16:27+0800\n"
+"PO-Revision-Date: 2014-08-16 16:29+0800\n"
 "Last-Translator: \n"
 "Language-Team: abc <abc>\n"
-"Language: ja\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,27 +18,27 @@ msgstr ""
 
 #: footer.php:20
 msgid "Follow Us"
-msgstr "腕時計"
+msgstr "Uhr"
 
 #: menu.php:17
 msgid "Home"
-msgstr "ホーム"
+msgstr "Zuhause"
 
 #: menu.php:20
 msgid "Mobile"
-msgstr "携帯電話"
+msgstr "Handy"
 
 #: menu.php:22
 msgid "Games"
-msgstr "ゲーム"
+msgstr "Spiel"
 
 #: menu.php:26
 msgid "Tournaments"
-msgstr "コンペティション"
+msgstr "Wettbewerb"
 
 #: menu.php:43
 msgid "School"
-msgstr "イベント"
+msgstr "Geschehen"
 
 #~ msgid "Products (3)"
 #~ msgstr "Produit(3)"

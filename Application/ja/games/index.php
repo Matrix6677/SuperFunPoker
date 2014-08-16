@@ -1,6 +1,6 @@
 <?php
 include_once '../../Common/Common/function.php';
-setLang('cn');
+setLang('ja');
 ?>
 <!DOCTYPE html>
 <html>
@@ -18,7 +18,7 @@ setLang('cn');
 <?php
 include '../../../Public/Tpl/header.html';
 include '../../../Public/Tpl/menu.html';
-get_content('http://192.168.1.139:8000/content/cn/zjh/jieshao');
+get_content('http://115.28.244.81/content/en/bj/test');
 include '../../../Public/Tpl/footer.html';
 ?>
 <!--script start-->
